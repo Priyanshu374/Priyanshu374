@@ -1,4 +1,4 @@
-## Hi 👋, I'm Priyanshu
+## Hi 👋, I'm Priyanshu Pandey
 Full Stack Developer | AI & Software Engineering Enthusiast
 I'm a Computer Science student passionate about building full-stack applications, backend systems, and AI-powered software.
 I enjoy turning ideas into real working products and exploring how AI can improve the software development lifecycle.
@@ -6,14 +6,11 @@ I enjoy turning ideas into real working products and exploring how AI can improv
 <!--
 **Priyanshu374/Priyanshu374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
+* Full Stack Developer with experience in the **MERN stack**
+* Building **AI, LLM, and RAG-based applications**
+* Interested in **Backend Engineering and System Design**
+* Practicing **Data Structures & Algorithms with C++**
+* Working with **Docker and CI/CD**
+* Currently building **AgentForge AI**, a multi-agent software engineering platform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
