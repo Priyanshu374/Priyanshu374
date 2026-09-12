@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi 👋, I'm Priyanshu
+Full Stack Developer | AI & Software Engineering Enthusiast
+I'm a Computer Science student passionate about building full-stack applications, backend systems, and AI-powered software.
+I enjoy turning ideas into real working products and exploring how AI can improve the software development lifecycle.
 
 <!--
 **Priyanshu374/Priyanshu374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
