@@ -312,42 +312,9 @@ Trees
 Graphs
 Binary Search
 Greedy
-Dynamic Programming
 Recursion
 ```
-
 ---
-
-## `> github_activity`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Priyanshu374&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu374&layout=compact&hide_border=true" height="170" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Priyanshu374&hide_border=true" />
-
-</div>
-
----
-
-## `> contribution_graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu374&hide_border=true&area=true" />
-
-</div>
-
----
-
 ## `> connect`
 
 <div align="center">
