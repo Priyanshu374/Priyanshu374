@@ -256,7 +256,6 @@ Problem Solving
         │
         ├── Data Structures
         ├── Algorithms
-        └── Competitive Programming
 ```
 
 ---
